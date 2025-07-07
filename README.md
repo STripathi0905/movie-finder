@@ -13,12 +13,6 @@ A simple and stylish web app that allows users to search for movie details using
 - 🧠 Handles invalid inputs and API errors gracefully
 - 💻 Fully responsive UI
 
----
-
-## 🚀 Demo
-
-👉 [Live Demo (if deployed)](https://your-live-link.com)  
-*(Add your GitHub Pages or Netlify link here)*
 
 ---
 
